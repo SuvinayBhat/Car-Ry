@@ -20,7 +20,6 @@ This project is ideal for learning purposes or small-scale offline applications,
 ## 📁 Folder Structure
 
 /your-project-folder
-│
 ├── main.cpp ← Main application logic
 ├── sqlite3.c ← SQLite source file (add to project)
 ├── CARS.db ← The SQLite database file (auto-created)
